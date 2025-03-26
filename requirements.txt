@@ -155,7 +155,6 @@ python-telegram-bot==21.10
 pytweening==1.2.0
 pytz==2024.2
 pywhatkit==5.4
-pywin32==308
 pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
